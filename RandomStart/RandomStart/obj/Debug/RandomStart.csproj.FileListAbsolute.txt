@@ -8,3 +8,13 @@ C:\Users\Ado\source\repos\RandomStart\RandomStart\obj\Debug\Random Start.dll
 C:\Users\Ado\source\repos\RandomStart\RandomStart\obj\Debug\Random Start.pdb
 C:\Users\Ado\source\repos\RandomStart\RandomStart\bin\Debug\ScriptHookVDotNet2.pdb
 C:\Users\Ado\source\repos\RandomStart\RandomStart\obj\Debug\RandomStart.csproj.AssemblyReference.cache
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\bin\Debug\Random Start.dll
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\bin\Debug\Random Start.pdb
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\bin\Debug\NativeUI.xml
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\bin\Debug\ScriptHookVDotNet2.pdb
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\bin\Debug\ScriptHookVDotNet2.xml
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\obj\Debug\RandomStart.csproj.AssemblyReference.cache
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\obj\Debug\RandomStart.csproj.CoreCompileInputs.cache
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\obj\Debug\RandomSt.EBBFDC4E.Up2Date
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\obj\Debug\Random Start.dll
+D:\Sync\PC\Documents\GitHub\RandomStart\RandomStart\RandomStart\obj\Debug\Random Start.pdb
